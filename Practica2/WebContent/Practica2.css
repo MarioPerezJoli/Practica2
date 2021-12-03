@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+h1{
+	background-color: blue;
+	
+}
+img{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	margin: 2px;
+}
+img.trans:hover{
+	opacity: 0.3;
+}
+.sec{
+	text-align: center;
+}
+
+.c1{
+	position: relative;
+	right: -100px;	
+	
+}
+
+p{
+	color: blue;
+	box-sizing: content-box;
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+	position: relative;
+	left: -500px;
+	top: -15px;
+	
+}
+.foto2{
+	width: 512px;
+	height: 500px;
+}
+
+.sec2{
+	text-align: center;
+	background-color: blue;
+	position: relative;
+	top:-50px;
+}
